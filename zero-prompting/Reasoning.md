@@ -37,3 +37,8 @@ Table departments, columns = [DepartmentId, DepartmentName]
 Table students, columns = [DepartmentId, StudentId, StudentName]
 Create a MySQL query for all students in the Computer Science Department
 """
+
+#Prompt 9
+Classify the text into nutral, negative or positive. 
+Text: I think the vacation is okay.
+Sentiment:
