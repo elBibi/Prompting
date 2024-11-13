@@ -18,27 +18,3 @@ Answer the question based on the context below. Keep the answer short and concis
 Context: Teplizumab traces its roots to a New Jersey drug company called Ortho Pharmaceutical. There, scientists generated an early version of the antibody, dubbed OKT3. Originally sourced from mice, the molecule was able to bind to the surface of T cells and limit their cell-killing potential. In 1986, it was approved to help prevent organ rejection after kidney transplants, making it the first therapeutic antibody allowed for human use.
 Question: What was OKT3 originally sourced from?
 Answer:
-
-#Prompt 6
-The following is a conversation with an AI research assistant. The assistant tone is technical and scientific.
-Human: Hello, who are you?
-AI: Greeting! I am an AI research assistant. How can I help you today?
-Human: Can you tell me about the creation of blackholes?
-AI:
-
-#Prompt 7
-/*
-Ask the user for their name and say "Hello"
-*/
-
-#Prompt 8
-"""
-Table departments, columns = [DepartmentId, DepartmentName]
-Table students, columns = [DepartmentId, StudentId, StudentName]
-Create a MySQL query for all students in the Computer Science Department
-"""
-
-#Prompt 9
-Classify the text into nutral, negative or positive. 
-Text: I think the vacation is okay.
-Sentiment:
